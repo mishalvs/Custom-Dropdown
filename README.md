@@ -2,8 +2,8 @@
 
 This is a modern custom dropdown component built using HTML, CSS, and JavaScript.
 
-## 🔗 Project URL
-Live Demo: https://mishalvs.github.io/Custom-Dropdown/
+project url: 
+https://mishalvs.github.io/Custom-Dropdown/
 
 ## 📌 Features
 - Placeholder when no item is selected
